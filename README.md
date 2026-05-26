@@ -17,8 +17,7 @@ Analyzed a retail business dataset containing **500 transactions** recorded betw
 
 > Interactive Excel dashboard with live KPI cards, 4 charts, and slicers for Region and Channel filtering
 
-![Dashboard Preview](<img width="1214" height="554" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/8eb8df18-0800-4834-b84f-d9575bb27cc7" />
-)
+<img width="1214" height="554" alt="dashboard_screenshot png" src="https://github.com/user-attachments/assets/34373f6b-7758-46ea-b7b6-8d55fbd52ccb" />
 
 ---
 
